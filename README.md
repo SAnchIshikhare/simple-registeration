@@ -1,3 +1,4 @@
 # simple-registeration
-this is a login and sign up 
+This is a login and sign up 
 web page
+using html,css and php
